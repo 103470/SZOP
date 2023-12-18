@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oWDur4mkl6FUO1l/Rbb3+4VfsMF6vumEcP1TkifflrRp1zvzHsD1HwQA8dPFdDJXuuEX7orI86/DLTVvuOSGKg==",
+  "success": true,
+  "projectFilePath": "H:\\xampp\\htdocs\\beadandoSzop\\client\\Beadando\\Beadando\\Beadando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saviu\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\saviu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\saviu\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\saviu\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
